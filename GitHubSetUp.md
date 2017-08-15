@@ -1,5 +1,5 @@
 # GitHub Set Up
-I have attempted to make this guide as simple and clear as possible for those without any GitHub experience. It is written for Macs but can be adapted to PCs. If you have questions, please do let me know so I can continue to improve the document.
+This guide is aimed for those without any GitHub experience to get started. It is written for Macs but can be adapted to PCs. 
 
 Found below are instructions for:
 - [Getting Set Up at GitHub.com](#Getting-Set-Up-at-GitHub.com)
@@ -20,14 +20,14 @@ Found below are instructions for:
 <a id="Getting-Set-Up-at-GitHub.com"></a>
 ## Getting Set Up at GitHub.com <a id="Getting-Set-Up-at-GitHub.com"></a>
 
-<p>Students of course first need to set up an account. After a discussion of visual communication principles and the strengths of GitHub, we set it up on the first day. It is easy at <a href="https://github.com">GitHub.com.</a> 
+<p>Students first need to set up an account at <a href="https://github.com">GitHub.com.</a> 
 <p>Students first register and follow along with, but adapt, the <a href="https://guides.github.com/activities/hello-world/">Git Hub setup guide, "Hello World."</a></p>
 
-My **annotations** for Hello World:
-- for **Signup**, students should use their first and last name: for example, jacklule -- NOT LEHIGH USER NAME
+Specific **instructions** for students of this module:
+- for **Signup**, students should use their first and last name: for example, HaiyanJia
 - before "Create a Repository", students should follow the tip to open up the Hello World guide in a **separate tab** and work in another tab
 - also before creating a repository, GitHub will ask, **Please verify email address**; students will need to open their email in yet another tab or perhaps their phone
-- for the repository, no need to name it, "Hello World;" can **name Data Viz**
+- for the repository, no need to name it, "Hello World;" can **name DataVisualization**
 - click Public
 - **Important - Easy to miss this step: Click Initialize with ReadMe; notice ReadMe is md file**
 - **Not necessary** Students also can do Issue and Create Branch, notice **working in branch, not master**; students will not use that often in early stages; they will work in master, but it is good practice and shows the great possibility of collaboration
