@@ -91,6 +91,6 @@
 - "Hollow"
 - Augmented Reality (AR) and Journalism
 
-### [Week 8.1 -- Mon., Oct. 16, no class, pacing break]<br/>Portfolios due at name.github.io
+### Week 8.1 -- Mon., Oct. 16, no class, pacing break<br/>Portfolios due at name.github.io
 
 
