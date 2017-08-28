@@ -20,7 +20,7 @@ In Lehigh's journalism major, you get all three.
 
 From Fall 2016, the department started to introduce important, even exciting, additions to the curriculum. We have witnessed a growing need for journalism students to be familiar with data and to use data for visualization and storytelling. It will add to your education and set you apart on the job market.
 
-Rather than have students take two more required classes, the department has found natural homes for both data journalism and data visualization. Jour 23 Editing and Critical Thinking will have 7.5 weeks of traditional editing and 7.5 weeks of data journalism. The class previously had instruction on working with numbers. Jour 24 Visual Communication will also have two modules, 7.5 weeks of study in photography, videography and print design and 7.5 weeks of study in data visualization. The class previously had just touched upon visualization.
+Rather than have students take two more required classes, the department has found natural homes for both data journalism and data visualization. Jour 23 Editing and Critical Thinking will have 7 weeks of traditional editing and 7 weeks of data journalism. The class previously had instruction on working with numbers. Jour 24 Visual Communication will also have two modules, 7 weeks of study in photography, videography and print design and 7 weeks of study in data visualization. The class previously had just touched upon visualization.
 
 You should treat each module as its own separate course. The grading methods, course structure, assignment weights, etc., will be set by the professor leading each module. Each module will be weighted exactly 50 percent. Your final grade will simply combine the two modules.
 
