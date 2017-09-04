@@ -16,8 +16,8 @@
 
 - **In class exercise**:
   - Students will need to register at [Canva](https://www.canva.com/). 
-  - [Beginner Tutorial](https://www.canva.com/design/DABt7NIMOCI/XaP1zkyMrDH-rlB7LvuB3g/edit): 3 minutes
-  - [Essential Canva Tools](https://www.canva.com/design/DABruYYnUZk/KmFa2-jSqTcKj5zUT-s9Cw/edit): 10 minutes
+  - [Beginner Tutorial](https://designschool.canva.com/tutorials/): 3 minutes
+  - [Essential Canva Tools](https://designschool.canva.com/tutorials/): 10 minutes
   - Focus on layout, design, font and color
   - [Canva sample on HTML5 page](https://madisonhoff.github.io/infographic.html)
   - **In class exercise**:
