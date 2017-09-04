@@ -53,4 +53,4 @@
 - Read: [16 Useless Infographics](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics), from The Guardian
 - Skim: ["Designing with a Grid-Based Approach"](https://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/)
 - Word clouds as infographics at [Wordle](http://www.wordle.net/create) (requires Java plugin)
-<li><a href="http://www.visualmess.com">Good design principles</a>: an eight-point essay from Visual Mess</li>
+- [Good design principles](http://www.visualmess.com): an eight-point essay from Visual Mess
