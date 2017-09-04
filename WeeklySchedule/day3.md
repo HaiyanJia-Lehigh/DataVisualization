@@ -35,30 +35,16 @@
   - open in Finder and give the infographic a one-word name.
   - open https://github.com/name/name.github.io and click upload file
   - drag or choose png file and commit
-- **To create an html page to display your infographic (2017- can also try on md page)**
-  - 2017: use link to embed on ReadMe.md page: ![title of infographic] NO SPACE (https://name.github.io/nameofinfographic.png)
-  - Prior to 2017: select create New File at name.github.io 
-  - give file one-word name **with .html after the name**
-  - in the text box, enter:
-  - **(enter < and > before and after each line where needed so it will appear as html)**
-  - !DOCTYPE HTML>
-  - html>
-  - body>
-  - body topmargin="50">
-  - body leftmargin="50">
-  - h1> Infographic Title Different from Title on Infographic</h1
-  - h2>Your Name</h2
-  - img class="pretty" src=infographicname.png style="width: 75%"> **(make sure infographic name is exact, including lower case)**
-  - /body>
-  - /html>
-- Commit
- - Trouble? Check your html by looking at Page Source (right click on PCs; Option+Command+u for Macs)
-- To check: click Copy File Path and view infographic in browser
+- **To add your infographic to your github.io page**
+  - Get the link to your infographic stored on your Github account
+  - use link to embed on ReadMe.md page: ![title of infographic] NO SPACE (https://name.github.io/nameofinfographic.png)
+  - add a title and the source of the data
+  - to check: go to your github.io page and view infographic in browser
 
 ## Practice: Out of Class: Graded Assignment
 - find a story using data. Try to make the data of personal interest. If you have trouble, you can use Lehigh data: Lehigh Office of Institutional Research [Census](http://www.lehigh.edu/~oir/census.html)
 - Create an infographic, upload it to your github.io site and create an html page to showcase the infographic
-- Be sure to follow our [Grading Rubic](https://github.com/jacklule/DataViz-Syllabus/blob/master/Grading%20Rubric.md), with attention to typos, source information and more, to get the maximum 10 points
+- Be sure to follow our [Grading Rubic](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Grading%20Rubric.md), with attention to typos, source information and more, to get the maximum 10 points
 
 ## Resources
 - [5 Infographic Tools](http://www.huffingtonpost.com/randy-krum/5-great-online-tools-for-_b_5964874.html), by Huffington Post
