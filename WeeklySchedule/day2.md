@@ -26,6 +26,7 @@
 - *Optional*: To insert images (e.g., your profile picture) and/or links (e.g., links to your personal webpage, LinkedIn, social media pages, etc.), use markdown language as shown below. Note that you will need the url to the images (ending with jpeg, png, etc.) when inserting an image.
 
 ![Insert images or links](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Documents/Insert%20images%20or%20links.png?raw=true)
+<div style="text-align:center"><img src ="https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Documents/Insert%20images%20or%20links.png?raw=true" /></div>
 
 ## Resources
 - Also see, [Creating an HTML page](http://www.w3schools.com/html/html_intro.asp)
