@@ -23,6 +23,8 @@
 - Scroll down on that same [page guide](https://guides.github.com/features/pages/) for instructions on **editing the code for themes**, such as **changing the page title**.
 - Remembering that the page eventually will be their GitHub portfolio, students should customize their pages in md language. Directions To Customize the GitHub.io Page can be found at our [class GitHub Setup Guide](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/GitHubSetUp.md). See GitHub portfolios from previous students for examples and inspiration.
 - *Optional*: To further customize your GitHub page, see this [guide for customizing github pages](https://help.github.com/categories/customizing-github-pages/). For instance, you can [customize CSS and HTML in your Jekyll theme](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/).
+- *Optional*: To insert images (e.g., your profile picture) and/or links (e.g., links to your personal webpage, LinkedIn, social media pages, etc.), use markdown language as shown below. Note that you will need the url to the images (ending with jpeg, png, etc.) when inserting an image.
+![Insert images or links](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Documents/Insert%20images%20and%20links.png?raw=true)
 
 ## Resources
 - Also see, [Creating an HTML page](http://www.w3schools.com/html/html_intro.asp)
