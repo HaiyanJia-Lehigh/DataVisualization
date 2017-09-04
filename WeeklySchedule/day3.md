@@ -38,7 +38,7 @@
 - **To add your infographic to your github.io page**
   - Get the link to your infographic stored on your Github account
   - use link to embed on ReadMe.md page: ![title of infographic] NO SPACE (https://name.github.io/nameofinfographic.png)
-  - add a title and the source of the data
+  - add a title, the source of the data, and some description of the infographic
   - to check: go to your github.io page and view infographic in browser
 
 ## Practice: Out of Class: Graded Assignment
