@@ -25,7 +25,7 @@
 - *Optional*: To further customize your GitHub page, see this [guide for customizing github pages](https://help.github.com/categories/customizing-github-pages/). For instance, you can [customize CSS and HTML in your Jekyll theme](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/).
 - *Optional*: To insert images (e.g., your profile picture) and/or links (e.g., links to your personal webpage, LinkedIn, social media pages, etc.), use markdown language as shown below. Note that you will need the url to the images (ending with jpeg, png, etc.) when inserting an image.
 
-![Insert images or links](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Documents/Insert%20images%20or%20links.png?raw=true)
+
 <div style="text-align:center"><img src ="https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Documents/Insert%20images%20or%20links.png?raw=true" /></div>
 
 ## Resources
