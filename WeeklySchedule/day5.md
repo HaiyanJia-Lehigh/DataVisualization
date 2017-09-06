@@ -6,13 +6,11 @@
 
 ## Principles: Before Class
 
-<ul>
-<li><a href="https://tutorials.infogr.am/finding-the-data/the-basics-of-data-visualization/">When to Use What:</a> Six-point essay from Infogr.am</li>
-<li><a href="https://support.google.com/docs/answer/190718?rd=1">18 Chart Types from Google</a>: Focus on charts listed in our <a href="https://github.com/jacklule/DataViz-Syllabus/blob/master/Concept%20Table%20Daily.md">Concept Table</a></li>
-<li><a href="http://www.lamivo.com/tipsheets/anatomy_chart.pdf">Anatomy of a Chart</a>: one-page handout</li>
-<li><a href="http://journalistsresource.org/tip-sheets/research/dataset-digest-data-gov-chartbuilder-quick-lesson">Short essay on quick use of Chartbuilder for a news story.</a></li>
-<li><a href="http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf">Choosing a good chart</a> and <a href="http://kpq.github.io/sherp-31/assets/lectures/charts-reduced.pdf">a reduced version</a>: One-page PDF of making choices</li>
-</ul>
+[When to Use What](https://tutorials.infogr.am/finding-the-data/the-basics-of-data-visualization): Six-point essay from Infogr.am
+[18 Chart Types from Google](https://support.google.com/docs/answer/190718?rd=1): Focus on charts listed in our Concept Table
+[Anatomy of a Chart<](http://www.lamivo.com/tipsheets/anatomy_chart.pdf): A one-page handout
+[Short essay on quick use of Chartbuilder for a news story](http://journalistsresource.org/tip-sheets/research/dataset-digest-data-gov-chartbuilder-quick-lesson)
+[Choosing a good chart](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)-a reduced version: One-page PDF of making choices
 
 ## Practice: In Class
 2017: Is [ChartAccent](https://chartaccent.github.io/) a worthy competitor to Charbuilder?<ul>
