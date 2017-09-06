@@ -24,7 +24,7 @@
   - Next: we will study the spreadsheet at the heart of the Timeline and most data visualizations. The [Timeline spreadsheet](https://drive.google.com/a/lehigh.edu/previewtemplate?id=1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ&mode=public#) is based in Google Drive. 
   - You will need to be signed up at Google Drive. The timeline is quite specific in its structure. Here is a [discussion of the spreadsheet](https://timeline.knightlab.com/docs/using-spreadsheets.html).
   - **Create your own timeline**
-  - We will use links to photos and add our own brief text to complete the [4-step TimelineJS tutorial](https://timeline.knightlab.com/index.html#make), including the Optional Settings in Step 3. We will want to pay attention to photo credits. Our timeline will be about opening night of the 2016 Olympics in Rio, August 5, 8 p.m.
+  - We will use links to photos and add our own brief text to complete the [4-step TimelineJS tutorial](https://timeline.knightlab.com/index.html#make). We will want to pay attention to photo credits. Our timeline will be about opening night of the 2016 Olympics in Rio, August 5, 8 p.m.
   - **Step 1** Fill in the spreadsheet with information from links below. For each photo and video, credit NBC Sports.
     - [Rio 2016](https://1.bp.blogspot.com/-gpgFkYiFS0k/V2PgaYiIIWI/AAAAAAAAAGg/iP_5APptn2Yoy-irza5E4unZTHJSPIg9QCLcB/s1600/Rio%2B2016%2BOlympics%2BOpening%2BCeremony.jpeg). Text to state that 2016 Summer Olympics were held in Rio de Janeiro, Brazil. Date this August 1.
     - [Concern that Rio would be ready](https://i.ytimg.com/vi/9qPPxnOlrlo/maxresdefault.jpg). Text focuses on some of the concerns. Date this August 2.
