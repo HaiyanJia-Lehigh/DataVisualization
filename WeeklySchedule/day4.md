@@ -30,38 +30,22 @@
     - [Concern that Rio would be ready](https://i.ytimg.com/vi/9qPPxnOlrlo/maxresdefault.jpg). Text focuses on some of the concerns. Date this August 2.
     - [Athletes march in](http://wpmedia.news.nationalpost.com/2016/08/rio_olympics_opening_ceremony-12.jpg). Text states that the Games started on time, with the familiar parade of nations. Date this August 5, 8 p.m.
     - [Rio opening ceremony](http://images.indianexpress.com/2016/08/maracana-main.jpg). Text states the opening ceremony was a celebration of Brazilian history and culture. Date this August 5, 10 p.m.
-    - [2016 takes its place in history](https://youtu.be/9FGi0ohUw74). Text states that the 2016 opening ceremony thus took its place in the long history of Olympic ceremonies. Date this August 6.
+    - [2016 takes its place in history](https://vimeo.com/179722462). Text states that the Rio 2016 Summer Games thus took its place in the long history of Olympics. Date this August 6.
   - **Step 2** says: Under File, click Publish to the Web. Click grey Embed. Asked "Are You Sure," press ok. 
       - NOTE: The following has changed as of 21 November 2016!
-      - Close the 'Publish to the web' window. It no longer works. Instead, copy the URL for your Timeline from the browser's address bar. 
-      - It should look something like this: https://docs.google.com/spreadsheets/d/1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk/edit#gid=0
+      - Close the 'Publish to the web' window. 
+      - Copy the URL for your Timeline from the browser's address bar. It should look something like this: https://docs.google.com/spreadsheets/d/1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk/edit#gid=0
     - **Important**: This is the link to the spreadsheet NOT to the timeline. You still need to return to TimelineJS and Step 3.
   - **Step 3** Return to TimelineJS Make a Timeline site and under Step 3, paste the link to the spreadseet into the box on Step 3, next to Google Spreadsheet URL.
   - **Step 4** The final iframe embed link should now appear in the grey box in Step 4 (it should begin with <iframe src="https://cdn.knightlab.com). Copy the iframe embed code from Step 4.
   - You can simply paste the code into your ReadMe.md page.
   
-  Alternately, students can create a new file at github.io, call it name.html and the timeline will publish. However, it will be missing the student's name. Students thus can proceed to directions below on creating an html page for the timeline.
-  - **Create html page for timeline**
-    - With the iframe embed code copied, go to github.com, create a New File, title it Rio.html, use standard html coding to create an html page and paste in the iframe embed code:
-    - (enter < and > before and after each line where needed so it will appear as html)
-    - !DOCTYPE HTML>
-    - html>
-    - body>
-    - h1> Rio Opening Ceremony</h1>
-    - h2>Your Name</h2>
-    - iframe src="https://cdn.knightlab.com. . . . .>
-    - /body>
-    - /html>
-
-Commit
 
 ## Practice: Out of Class Assignment
 
 - Find a topic you care about and construct your own TimelineJS, using 5-8 photos or videos with 2-3 lines of text for each.
 - Remember to include credits for photos.
-- Publish the TimelineJS on an html page.
-- Send me a link to that page.
-- Eventually put the link on your page at name.github.io
+- Publish the TimelineJS on your github.io page.
 
 ## Resources
 - [What Are Time Series Graphs](http://statistics.about.com/od/Descriptive-Statistics/a/Time-Series-Graphs.htm)
