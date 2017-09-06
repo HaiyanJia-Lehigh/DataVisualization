@@ -73,21 +73,10 @@ What are:
 
 ![title] (https:/ /name.github.io/title of png.png)
 
-sometimes Copy Path can work as well
+Make sure you **copy image address** and paste it into your ReadMe page.
 
 ![My image] (username.github.com/repository/img/imagename.jpg) (without spaces between brackets and parentheses)
 
-<p>5) Prior to 2017: Create New File -- include .html in the name -- and create html page, perhaps adapting the code from your infographic html page. Be sure to use the exact name of your uploaded file when putting it into the page</p>
-<p>6) Copy file path and check if the chart appears in your browser</p>
-
-**Steps for uploading through GitHub Desktop**
-<p>1) Create chart in Chartbuilder</p>
-<p>2) Export or Save as SVG to local computer with simple name, no spaces; you can also use png but png sometimes has trouble displaying</p>
-<p>3) Put file in local github.io folder</p>
-<p>4) Commit -- Sync -- with GitHub site</p>
-<p>5) Create an html page with a brief heading to display your svg file</p>
-<p>6) If you have not already set up TextEdit for html creation, see Week 1. (Create in TextEdit. Save as plain text file unicode 8 and add html to Save. Make sure file is in github.io folder. Then Commit-Sync with website.)</p>
-<p>7) Go to your github.io site and find the link for "Copy Path" of file; place the link on a display page at your github.io site; don't forget http, if it is not included.</p>
 
 ## Resources
 
