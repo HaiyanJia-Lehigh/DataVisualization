@@ -12,15 +12,6 @@ We will continue our exploration and work with the "two workhorses" of data visu
 <li><a href="http://datajournalismhandbook.org/1.0/en/delivering_data_6.html">Different charts tell different tales:</a> A short essay from the Data Journalism Handbook</li>
 </ul>
 
-## Practice: In Class
-
-**Getting more comfortable with html**
-- With the fear factor of coding now gone, let's look more closely at an html page:
-- W3 Schools provides a [great introduction to html](http://www.w3schools.com/html/html_intro.asp)
-**Intro to CSS (Cascading Style Sheets in html)**
-- Open your first in-class infographic.html file in github.com (not your graded assignment)
-- study the code once more
-- Follow this straightforward [w3schools tutorial](http://www.w3schools.com/html/html_css.asp). Scroll down to Inline CSS and use the simple instructions to change the font color of your heading to blue.
 
 ## Practice: In Class
 ## Create Line Chart in Chartbuilder
@@ -52,3 +43,10 @@ We will next create and upload a time-based, line chartchart to GitHub and displ
 - [Hannah Fairfield, "Driving Safely," time-series chart in NY Times]
 (http://lenagroeger.s3.amazonaws.com/talks/nicar-2015/timelines-nicar/img/DRIVINGtimeline.jpg)
 
+**Getting more comfortable with html**
+- With the fear factor of coding now gone, let's look more closely at an html page:
+- W3 Schools provides a [great introduction to html](http://www.w3schools.com/html/html_intro.asp)
+**Intro to CSS (Cascading Style Sheets in html)**
+- Open your first in-class infographic.html file in github.com (not your graded assignment)
+- study the code once more
+- Follow this straightforward [w3schools tutorial](http://www.w3schools.com/html/html_css.asp). Scroll down to Inline CSS and use the simple instructions to change the font color of your heading to blue.
