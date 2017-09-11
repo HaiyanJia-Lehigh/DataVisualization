@@ -25,6 +25,8 @@ What are:
 - time-series data? (sounds like time, with measures of years, days, minutes, centuries)
 - ordinal data? (sounds like order, rankings, ratings)
 - interval data? (think intervals, space between values evenly split, temperature, level of happiness)
+
+
 About Chartbuilder:
 - [The Chartbuilder site](https://quartz.github.io/Chartbuilder/)
 - [Tutorial on creating your first chart, a time-series chart](https://github.com/Quartz/Chartbuilder/blob/master/tutorials/basic-chart.md), published on GitHub. Must delete sample data in Input box before pasting. No need to save and publish.
