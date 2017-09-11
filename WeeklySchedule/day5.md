@@ -24,18 +24,15 @@
 What are: 
 - time-series data? (sounds like time, with measures of years, days, minutes, centuries)
 - ordinal data? (sounds like order, rankings, ratings)
-- interval data? (think intervals, space between values evenly split, temperature, 
-
-<ul>
-
-<li><a href="https://quartz.github.io/Chartbuilder/">The Chartbuilder site</li>
-<li><a href="https://github.com/Quartz/Chartbuilder/blob/master/tutorials/basic-chart.md">Tutorial on creating your first chart, a time-series chart<a>, published on GitHub. Must delete sample data in Input box before pasting. No need to save and publish.</li>
-<li><a href="https://github.com/Quartz/Chartbuilder/blob/master/tutorials/column-chart-ordinal-data.md">Tutorial on creating a column chart with ordinal data</a></li>
-<li><a href="https://github.com/Quartz/Chartbuilder/blob/master/tutorials/bar-chart-with-ranking-data.md">Tutorial on creating a bar chart with ordinal data for ranking</a></li>
-<li><a href="http://www.poynter.org/how-tos/220572/how-to-use-chartbuilder-to-make-simple-graphics-fast/">Not required but if you are interested: How to set up Chartbuilder on your computer<a></li>
-<li><a href="https://github.com/Quartz/Chartbuilder">GitHub site for Chartbuilder</a></li>
-<li>If time, look at export/download function for Chartbuilder</li>
-</ul>
+- interval data? (think intervals, space between values evenly split, temperature, level of happiness)
+About Chartbuilder:
+- [The Chartbuilder site](https://quartz.github.io/Chartbuilder/)
+- [Tutorial on creating your first chart, a time-series chart](https://github.com/Quartz/Chartbuilder/blob/master/tutorials/basic-chart.md), published on GitHub. Must delete sample data in Input box before pasting. No need to save and publish.
+- [Tutorial on creating a column chart with ordinal data](https://github.com/Quartz/Chartbuilder/blob/master/tutorials/column-chart-ordinal-data.md)
+- [Tutorial on creating a bar chart with ordinal data for ranking](https://github.com/Quartz/Chartbuilder/blob/master/tutorials/bar-chart-with-ranking-data.md)
+- Not required but if you are interested: [How to set up Chartbuilder on your computer](http://www.poynter.org/how-tos/220572/how-to-use-chartbuilder-to-make-simple-graphics-fast/)
+- [GitHub site for Chartbuilder](https://github.com/Quartz/Chartbuilder)
+If time, look at export/download function for Chartbuilder.
 
 ## Checklist for Charts
 
