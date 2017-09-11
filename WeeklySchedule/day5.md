@@ -61,13 +61,13 @@ If time, look at export/download function for Chartbuilder.
 <p>1) Review the chart on Lehigh undergraduate enrollment per college. </p>
 <p>2) Export as Image (png file -- portable network graphic) or svg file (scalable vector graphic, used for interactivity) 
 <p>3) The file will download to local computer. Rename to a single name, no spaces</p>
-<p>4) At github.com, upload the file to your name.github.io repository. For 2017: Place on ReadMe.md page with the following codes:</p>
+<p>4) At github.com, upload the file to your name.github.io repository. Place on ReadMe.md page with the following codes:</p>
 
 ![alt tag] (https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png?raw=true)
 
 ![title] (https:/ /name.github.io/title of png.png)
 
-Make sure you **copy image address** and paste it into your ReadMe page.
+Make sure you **copy image address** (ending with .png, ,jpg, etc.) and paste it into your ReadMe page.
 
 ![My image] (username.github.com/repository/img/imagename.jpg) (without spaces between brackets and parentheses)
 
