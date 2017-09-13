@@ -17,9 +17,8 @@ We will continue our exploration and work with the "two workhorses" of data visu
 ## Create Line Chart in Chartbuilder
 
 We will next create and upload a time-based, line chartchart to GitHub and display it on your github.io pages.
-
-<li><a href="http://jacklule.github.io/pages/SVGtest.html">Here is a simple Chartbuilder line chart in svg format.</a></li>
-<li><a href="http://jacklule.github.io/pages/PNGtest.html">Here is a simple Chartbuilder line chart in png format.</a></li>
+- Here is a simple [Chartbuilder line chart](http://jacklule.github.io/pages/SVGtest.html) in svg format.
+- Here is a simple [Chartbuilder line chart](http://jacklule.github.io/pages/PNGtest.html) in png format.
 
 **Question: What are the percentages of students in each of Lehigh's three undergraduate colleges over the past ten years?**
 - Find the data for ten years of Lehigh's [institutional profile](http://www.lehigh.edu/~oir/profiles/profile.htm). You will be using the html version that has more than ten years of Lehigh profiles in tabs at the bottom.
