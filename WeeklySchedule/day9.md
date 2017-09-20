@@ -20,7 +20,7 @@ Creating interactive data visualizations was outside the skill set of many journ
 - View recent Tableau example about, of all things, [dams](https://public.tableau.com/en-us/s/gallery/dam-nation-state-of-us-dams?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+VizOfTheDay+%28Viz+of+the+Day+-+Beautiful+Visual+Stories%29).
 - [Create a Profile at Tableau](https://public.tableau.com)
 - if logging into Tableau Public from a lab computer, make sure previous person has logged out
-- Follow [Class Tutorial on Baby Names](https://github.com/jacklule/DataViz-Syllabus/blob/master/Tableau.md), adapted from Tableau's 2014 NICAR presentation
+- Follow [Class Tutorial on Baby Names](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Tableau.md), adapted from Tableau's 2014 NICAR presentation
 - [rough draft of what we want from this first day](http://jacklule.github.io/pages/tableau.html)
 
 ## Resources
