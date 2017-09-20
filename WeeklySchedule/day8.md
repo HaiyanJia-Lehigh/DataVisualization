@@ -51,8 +51,8 @@
 ## Graded Assignment
 
 - Create your own spreadsheet and Google Fusion map with at least five locations.
-- Be sure to take out unnecessary bold titles on your cards
-- Publish to an html page at github.com, with the size of the map doubled, and send me the link
+- Be sure to take out unnecessary bold titles on your cards, and customize the cards and icons so they are visually effective in communicating the key information of your project.
+- Publish the map and add it to your github.io portfolio, with the map resized to fit well with your page.
 
 ## Resources
 
