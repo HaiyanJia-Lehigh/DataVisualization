@@ -1,12 +1,12 @@
-#Day 14
+# Day 14
 
-##Telling Visual Stories
+## Telling Visual Stories
 
-###Principles and Practice
-###Presentation of Portfolios
+### Principles and Practice
+### Presentation of Portfolios
 
-##Telling Stories with Documentaries and Data
-###Resources for further study
+## Telling Stories with Documentaries and Data
+### Resources for further study
 
 - Examples of documentaries with plentiful data visualizations: "Super Size Me," "An Inconvenient Truth," "Food, Inc." "I.O. USA" "Inside Job," "Britain from Above," "Gaza Sderot," "This Land," "The Interview Project," "Collapsus"
 - Example of animated documentary [trailer for Last Day of Freedom](https://www.youtube.com/watch?v=PCJH4tayb54), Oscar nominee
