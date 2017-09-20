@@ -15,7 +15,7 @@
 - Demonstrate how to get URLs of images from Google: Search>Images>View Image (get photo credit)
 - Open [spreadsheet on local arts centers](https://docs.google.com/spreadsheets/d/1IuaZxQf0zKPVXZZbs7VJKQWG4ePLbf-utVQ8ueN7Eg0/edit?usp=sharing), created at Google Sheets
 - Note column -- Icon -- with arts entered into each cell.
-- Click grey folder next to name J 24 Google Fusion Data Sample. Click Make a Copy (not Add to Drive) to add to your Google Drive and rename.
+- Click "File," and choose to "Make a copy" to your own Google Drive.
 - Add information to a fifth establishment to practice finding and adding data. Find address, URL and image for ArtsQuest in Bethlehem and create new row on spreadsheet. 
 - go to Google Drive, open Google Fusion; Import J24 Table from Google Spreadsheet
 - When map displays correnctly, go to dropdown menu for Change Map; under Change Info Window, edit card's html to remove unecessary boldfaced titles: Name, URL, Address, Description, Image, Icon
@@ -45,7 +45,6 @@
 - Click Save. The change is effective immediately.
 - Click Done. The maps is now accessible.
 - Go to Tools > Publish and get iframe html code to embed on ReadMe page.
-- (Previously: Create map.html page at github.com to embed the iframe code for the map.)
 - The map is small on the github.io page. Go into the code on your html page and double the size.
 
 ## Practice: Out of Class
