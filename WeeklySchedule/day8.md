@@ -13,7 +13,7 @@
 
 - Google Fusion exercise with local data
 - Demonstrate how to get URLs of images from Google: Search>Images>View Image (get photo credit)
-- Open [spreadsheet on local arts centers](https://docs.google.com/spreadsheets/d/1IuaZxQf0zKPVXZZbs7VJKQWG4ePLbf-utVQ8ueN7Eg0/edit?usp=sharing), created at Google Sheets
+- Open [spreadsheet on local arts centers](https://docs.google.com/a/lehigh.edu/spreadsheets/d/1xRViRNvVKabhSxdRteVQS1R9xB_Q2J2eQfeucJKeySk/edit?usp=sharing), created at Google Sheets
 - Note column -- Icon -- with arts entered into each cell.
 - Click "File," and choose to "Make a copy" to your own Google Drive.
 - Add information to a fifth establishment to practice finding and adding data. Find address, URL and image for ArtsQuest in Bethlehem and create new row on spreadsheet. 
