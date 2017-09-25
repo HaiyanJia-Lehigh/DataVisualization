@@ -21,7 +21,7 @@ Creating interactive data visualizations was outside the skill set of many journ
 - [Create a Profile at Tableau](https://public.tableau.com)
 - if logging into Tableau Public from a lab computer, make sure previous person has logged out
 - Follow [Class Tutorial on Baby Names](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Tableau.md), adapted from Tableau's 2014 NICAR presentation
-- [rough draft of what we want from this first day](http://jacklule.github.io/pages/tableau.html)
+- [rough draft of what we want from this first day](https://public.tableau.com/views/BabyNameTrends_4/Dashboard1?:embed=y&:display_count=yes&publish=yes)
 
 ## Resources
 - [Trinity tutorial](https://www.datavizforall.org/chart/scatter-chart-tableau/)
