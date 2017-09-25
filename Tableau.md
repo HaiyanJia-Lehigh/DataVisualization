@@ -72,10 +72,8 @@ Pause here to inspect Dimensions and Measures: Review Necessary Definitions:
 - Drag 48 States to Dashboard. It comes with the year slider, gender filter -- and the entire list of names, which is not necessary. Drag and separate the slider and gender filter from the list of top names. Click on drop down menu for Top Names and select Remove from Dashboard.
 - Reposition and make larger the year slider and the gender filter
 - Drag Alaska and Hawaii to Dashboard. Remove top names but keep the slider and gender filter 
-- If time, eventually we need to have just one year slider and one gender filter for the entire dashboard. Steps for doing this change often. 
-- - Try clicking on main map and in top right get drop-down menu, click "Use as Filter." The main map should now control as a filter the other maps and even charts. 
-- - If not, try Dashboard Actions and choose Filter and target three sheets.
-- - If not, select the 48 State Sheet, right click on Filter, select apply to worksheet, select all using related data sources
+- If time, eventually we need to have just one year slider and one gender filter for the entire dashboard. 
+- - Select the filters of the 48 State Sheet, right click on Filter, select apply to worksheet, select all using related data sources
 - Drag and resize until the maps seem right to you
 
 **Adding a title**
@@ -87,9 +85,7 @@ Pause here to inspect Dimensions and Measures: Review Necessary Definitions:
 - Hit OK.
 
 **Saving the Dashboard and Publishing to the Web**
-- Under File > Save to Tableau Public As > Choose a descriptive name for your viz page. 
+- Under Server > Tableau Public > Save to Tableau Public As > Choose a descriptive name for your viz page. 
+- A pop-up window may appear, saying "Data Extract Required." Click "Create Data Extract" > Extract > Save, and then retry save to Tableau Public.
 - There may be a checkbox that says “Show Sheets as Tabs”. But you want people just to see your Dashboard, not the sheets that went into it. Make sure it is unchecked.
-- Once your dashboard is saved to the web you will get a preview screen. You’ll see a URL and embed. Copy the embed code.
-- At your GitHub.io site, click create a new file. Give the file a short, descriptive name and don't foget.html
-- You have a title and name on the viz already at Tableau. So rather than adding html to the page, just paste the embed code into the top line and Commit.
-- Click Copy Path to see the viz displayed on your html page.
+- Once your dashboard is saved to the web you will get a preview screen. You’ll see a URL and embed. Copy the embed code, and use it for your GitHub.io page.
