@@ -20,7 +20,6 @@
 
 iframe src="//www.pixton.com/embed/0wrj8fvs" frameborder="0" width="155%" height="678" allowfullscreen></iframe
 
-    * Paid accounts can directly download the images from Pixton.
 
 ### Resources
 
