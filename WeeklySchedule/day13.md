@@ -14,9 +14,13 @@
 
 ![My Pixton trial introduction](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Documents/Pixton.png?raw=true)
 
-- To avoid using a screen shot on your web site, when you publish, you can change iframe embed code width to 155 to remove the white block. If you have more than three panels, you can double the height to expand the length of the comic so the readers does not need to scroll down, such as this example with the width and height increased in the code: 
+- When adding the comics to your GitHub.io page, you can try any of the following:
+  * Make a screen shot of your comic, upload it to your GitHub account, copy the image address, and add it to your io page;
+  * Get from Pixton the iframe embed code. You may want to set the width to 155 to remove the white block. If you have more than three panels, you can double the height to expand the length of the comic so the readers does not need to scroll down, such as this example with the width and height increased in the code: 
 
 iframe src="//www.pixton.com/embed/0wrj8fvs" frameborder="0" width="155%" height="678" allowfullscreen></iframe
+
+  * Paid accounts can directly download the images from Pixton.
 
 ### Resources
 
