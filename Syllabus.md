@@ -7,7 +7,7 @@
 
 Haiyan Jia
 - Assistant Professor in [Journalism and Communication](https://journalism.cas2.lehigh.edu/content/haiyan-jia)
-- Office Hours (Fall 2017): Tuesdays & Thursdays, 1:30pm-3:00pm
+- Office Hours (Spring 2018): Tuesdays & Thursdays, 1:30pm-3:00pm
 
 ## Data Visualization Module 7-14 (7 weeks, 14 days)
 
