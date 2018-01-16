@@ -1,7 +1,7 @@
 # Jour 24 Visual Communication
 ## Syllabus
 
-## Also see the [Day-by-Day Course Outline](https://github.com/jacklule/DataViz-Syllabus/blob/master/Daily%20Outline.md)
+## Also see the [Day-by-Day Course Outline](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Daily%20Outline.md)
 
 ## Instructor
 
