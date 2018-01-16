@@ -1,9 +1,7 @@
 # Data Visualization
 This site contains the syllabus and content for the Data Visualization module offered in the Department of Journalism and Communication at Lehigh University. 
 
-The module was initially created in Fall 2016 and taught by Professor Jack Lule. It is an effort to add to our students' journalism curriculum an understanding of using data for finding insights and telling stories. This includes the creation of the Data Visualization module and the Data Journalism module (which I created and started to teach in Fall 2016).
-
-Starting from Fall 2017, I will be teaching both modules, and I owe my thanks to Professor Lule for using the materials that he put together as the starting point of my own teaching. 
+The module was first offered to our students in Fall 2016. It is an effort to add to our students' journalism curriculum an understanding of using data for finding insights and telling stories. This includes the creation of the Data Visualization module and the Data Journalism module. The plan is to merge the two and to have a stand-alone Data Journalism course that includes both the theoretical and the practical aspects of this subject.
 
 The rationale to use GitHub in this class is so students will get to know it and get introduced to some fundamental coding and the idea of version control even as they work on other projects for the class. For those without any GitHub experience, here is a [Set Up Guide](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md) that Professor Lule created that is immensely helpful.
 
