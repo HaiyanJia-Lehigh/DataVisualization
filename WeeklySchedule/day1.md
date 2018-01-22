@@ -11,7 +11,8 @@
   - [How Common Is Your Birthday](http://thedailyviz.com/2012/05/12/how-common-is-your-birthday/), by Matt Stiles, NPR
   - [Baby Names for Boys in the United States by Year](https://public.tableau.com/profile/publish/analysis_17/Tableaudebord1#!/publish-confirm); and [For Girls](https://public.tableau.com/profile/jewel.loree#!/vizhome/babynames_1/Dashboard2), at Tableau
   - [How Your School District Compares](http://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html?em_pos=small&emc=edit_up_20160429&nl=upshot&nl_art=0&nlid=724199&ref=img&te=1&_r=0), at the NY Times' Upshot 
-  - [Gender imbalances across Lehigh’s colleges](http://thebrownandwhite.com/2017/11/12/gender-breakdown-lehigh/), Musa Jamshed, The Brown and White (more work from the [Data & Graphics Department](http://thebrownandwhite.com/data-graphics/))
+  - [Gender imbalances across Lehigh’s colleges](http://thebrownandwhite.com/2017/11/12/gender-breakdown-lehigh/), by Musa Jamshed, The Brown and White (more work from the [Data & Graphics Department](http://thebrownandwhite.com/data-graphics/))
+  - [A World of Two-Seams, Evergreen, and Caffeine](https://emilypreble.github.io/), by Emily Preble, JOUR 24 Fall 2017
 - Why you should not be afraid of data
 - Fixing the hole in your resume
 - [Syllabus](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Syllabus.md)
