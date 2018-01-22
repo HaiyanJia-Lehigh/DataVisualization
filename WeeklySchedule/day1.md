@@ -6,7 +6,7 @@
 - Introductions
 - Structure of Jour 24 (and Jour 23)
 - Principles (long lasting) and Practice (always evolving)
-- Goal: **Telling Stories** with Data
+- Goal: **Telling Stories with Data**
 - Examples: 
   - [How Common Is Your Birthday](http://thedailyviz.com/2012/05/12/how-common-is-your-birthday/), by Matt Stiles, NPR
   - [Baby Names for Boys in the United States by Year](https://public.tableau.com/profile/publish/analysis_17/Tableaudebord1#!/publish-confirm); and [For Girls](https://public.tableau.com/profile/jewel.loree#!/vizhome/babynames_1/Dashboard2), at Tableau
