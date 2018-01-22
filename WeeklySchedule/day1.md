@@ -24,7 +24,7 @@
 
 - [The Functional Art/The Truthful Art](http://www.thefunctionalart.com/), Alberto Cairo: explore this site often
 - **Finding Data**
-  - I have set up a page, [Finding Data](https://github.com/jacklule/DataViz-Syllabus/blob/master/Finding%20Data.md) to help you find data of interest to your projects, including local data for Lehigh University's Northampton County. Please feel free to find and share more.
+  - This page, [Finding Data](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Finding%20Data.md), is a starting point to help you find data of interest to your projects, including local data for Lehigh University's Northampton County. Please feel free to find and share more.
 - **Visualizing Data**
   - **Visualization Choices** for our class: infographics, timelines, charts, maps, storymaps and comics. Eventually we will add considerations of interactivity and mobile as well as documentaries
   - **Our Visualization Tools**: GitHub; Canva; TimelineJS; Chartbuilder; Google Fusion; Tableau, Pixton
@@ -35,7 +35,7 @@
   -   Introduction to GitHub
   -   Show Inspect Source: right click on Macs -- Control click or touchpad tap
   -   Show difference between .md pages and html pages
-  -   Register for and Set up GitHub.com. [Our Class GitHub.com Setup Instructions](https://github.com/jacklule/DataViz-Syllabus/blob/master/GitHubSetUp.md)
+  -   Register for and Set up GitHub.com. [Our Class GitHub.com Setup Instructions](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/GitHubSetUp.md)
   -   [Setting up GitHub: Hello, World](https://guides.github.com/activities/hello-world/) with explanation of GitHub terms
   -   Or, more simply, Sign up for GitHub.com > Create new project/new repository > Initialize and create ReadMe (DataViz) page > Commit > begin to edit page
   -   Practice: [md Markdown basics](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
