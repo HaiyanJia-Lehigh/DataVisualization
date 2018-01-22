@@ -14,8 +14,8 @@
   - [Gender imbalances across Lehigh’s colleges](http://thebrownandwhite.com/2017/11/12/gender-breakdown-lehigh/), Musa Jamshed, The Brown and White (more work from the [Data & Graphics Department](http://thebrownandwhite.com/data-graphics/))
 - Why you should not be afraid of data
 - Fixing the hole in your resume
-- [Syllabus](https://github.com/jacklule/DataViz-Syllabus/blob/master/Syllabus.md)
-- [Concept Table Daily](https://github.com/jacklule/DataViz-Syllabus/blob/master/Concept%20Table%20Daily.md) for review of readings, quizzes and tests
+- [Syllabus](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Syllabus.md)
+- [Concept Table Daily](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Concept%20Table%20Daily.md) for review of readings, quizzes and tests
 - Daily and weekly rhythm for readings
 
 ## Practice
