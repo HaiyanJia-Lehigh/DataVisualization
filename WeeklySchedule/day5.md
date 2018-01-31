@@ -12,6 +12,10 @@
 - [Short essay on quick use of Chartbuilder for a news story](http://journalistsresource.org/tip-sheets/research/dataset-digest-data-gov-chartbuilder-quick-lesson)
 - [Choosing a good chart](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)-a reduced version: One-page PDF of making choices
 
+# Quiz 2
+
+<a target=_blank href=https://lehigh.co1.qualtrics.com/jfe/form/SV_3ZTeXXG1GFZr0bz>Quiz 2</a>
+
 ## Practice: In Class
 2017: Is [ChartAccent](https://chartaccent.github.io/) a worthy competitor to Charbuilder?
 - [Skim chart examples; 41 slides](http://kpq.github.io/sherp-31/assets/lectures/chartexamples.pdf)
