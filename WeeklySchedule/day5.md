@@ -21,7 +21,7 @@ If you have any questions with the quiz, please don't hesitate to contact me (ha
  
 This quiz contains nine multiple-choice questions, plus one at the beginning that asks for your full name for grading purposes.
 
-To access the quiz, please click on the link below:
+_To access the quiz, please click on this link_:
 <a target=_blank href=https://lehigh.co1.qualtrics.com/jfe/form/SV_3ZTeXXG1GFZr0bz>Quiz 2</a>
 
 ## Practice: In Class
