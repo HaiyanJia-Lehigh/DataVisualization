@@ -13,7 +13,15 @@
 - [Choosing a good chart](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)-a reduced version: One-page PDF of making choices
 
 # Quiz 2
+Our Week 2 Quiz, covering readings from Day 4 and Day 5, will be available online from **9:00 am to 5:00 pm, on Monday, February 5th**.
+ 
+With every question in the quiz, you will have 90 seconds to complete. Once the time is up, you will be automatically advanced to the next page. So, please make sure you set aside enough time to finish the quiz in one seating.
+ 
+If you have any questions with the quiz, please don't hesitate to contact me (haiyan.jia@lehigh.edu).
+ 
+This quiz contains nine multiple-choice questions, plus one at the beginning that asks for your full name for grading purposes.
 
+To access the quiz, please click on the link below:
 <a target=_blank href=https://lehigh.co1.qualtrics.com/jfe/form/SV_3ZTeXXG1GFZr0bz>Quiz 2</a>
 
 ## Practice: In Class
