@@ -42,6 +42,7 @@ We will next create and upload a time-based, line chartchart to GitHub and displ
 - [Hannah Fairfield, "Driving Safely," time-series chart in NY Times]
 (http://lenagroeger.s3.amazonaws.com/talks/nicar-2015/timelines-nicar/img/DRIVINGtimeline.jpg)
 
+## Optional
 ### Getting more comfortable with html
 - With the fear factor of coding now gone, let's look more closely at an html page:
 - W3 Schools provides a [great introduction to html](http://www.w3schools.com/html/html_intro.asp)
