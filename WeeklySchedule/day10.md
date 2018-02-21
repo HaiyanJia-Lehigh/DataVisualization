@@ -15,8 +15,7 @@ We will continue learning the principles and practice of interactivity in data v
 - Use Tableau for "data exploration" -- [use a Sample Data Set, such as Titanic Names or Cat v Dog Popularity to explore maps and/or charts](https://public.tableau.com/en-us/s/resources)
 - Follow our class [Tableau instructions](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/Tableau.md) and create an interactive visualization with the data; have at least two sheets and a Dashboard; if three sheets consider a Storypoint
 - Publish to your github.io page
-
-⋅⋅⋅When publishing your Tableau project on GitHub.io, remove extra spaces in your embed code to ensure correct display of your visualziation
+- When publishing your Tableau project on GitHub.io, remove extra spaces in your embed code to ensure correct display of your visualziation
 
 ## Practice: Out of Class
 ## Graded Assignment: Part 1
