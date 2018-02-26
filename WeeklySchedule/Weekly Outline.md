@@ -96,6 +96,6 @@
 - Augmented Reality (AR) and Journalism
 
 
-### [Week 8.1](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/WeeklySchedule/day15.md), no class, pacing break<br/>Portfolios due at name.github.io
+### [Week 8.1](https://github.com/HaiyanJia-Lehigh/DataVisualization/blob/master/WeeklySchedule/day15.md), no class, spring break<br/>Portfolios due at name.github.io
 
 
