@@ -13,7 +13,7 @@
 - [Choosing a good chart](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf)-a reduced version: One-page PDF of making choices
 
 ## Practice: In Class
-2017: Is [ChartAccent](https://chartaccent.github.io/) a worthy competitor to Charbuilder?
+2017: Is [ChartAccent](https://chartaccent.github.io/) a worthy competitor to Chartbuilder?
 - [Skim chart examples; 41 slides](http://kpq.github.io/sherp-31/assets/lectures/chartexamples.pdf)
 - [How can you use design to help you say it?](http://i.imgur.com/RzYaLZg.gif) Fun gif: Remove to improve
 - [Nice example of Quartz charts on White House report](http://qz.com/278681/all-yes-all-the-charts-from-the-white-house-report-on-millennials/?wpisrc=nl-wonkbk&wpmm=1)
