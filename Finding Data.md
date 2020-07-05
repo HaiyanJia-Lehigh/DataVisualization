@@ -4,18 +4,20 @@
 - Data and beats: finding your interest
 - Nice list of [Data Tools](http://selection.datavisualization.ch/)
 - New search tool for journalists, [Sqoop](http://sqoop.com/), with registration required
-- [2016 list of data sources](http://flowingdata.com/2016/11/10/find-the-data-you-need-2016-edition/), organized nicely by demographic, geographic, health, news, sports and more, by the great Nathan Yau and Flowing Data
-- 2016 Google NewsLab developed [three tutorials for finding and analyzing data](https://newslab.withgoogle.com/course/data-journalism); they are geared specifically for journalists
-- Tableau put together a [holiday-themed list of 25 sample data sets](https://public.tableau.com/en-us/s/blog/2016/12/merry-vizmas-follow-these-tableau-themed-advent-calendars?utm_campaign=Tableau+Email+-+Tableau+Public+Newsletter+-+GLOBAL+-+2017-01-15&utm_medium=Email&utm_source=Eloqua&domain=lehigh.edu&eid=CTBLS000011270655&elqTrackId=021a7985c43142c0b7fd5549a584a9d4&elq=c14530a052614d2193bda02ae6e0606d&elqaid=20606&elqat=1&elqCampaignId=23065) to hone skills in Tableau
+- [FlowingData's list of data sources](http://flowingdata.com/2016/11/10/find-the-data-you-need-2016-edition/), organized nicely by demographic, geographic, health, news, sports and more, by the great Nathan Yau and Flowing Data
+- Google NewsLab developed [three tutorials for finding and analyzing data](https://newslab.withgoogle.com/course/data-journalism); they are geared specifically for journalists
+- Tableau provides a variety of [sample data sets](https://public.tableau.com/en-us/s/resources) to help get you started
+- [How to Teach Data Journalism for Beginners](http://mediashift.org/2015/03/how-to-teach-data-journalism-for-beginners/), with databases
+- [Finding Data](http://datajournalismhandbook.org/1.0/en/getting_data_0.html): The Data Journalism Handbook
 
 ## Lehigh University Data
-- Lehigh's Office of Institutional Research has a [Data Center](https://www.lehigh.edu/~oir/datacenter.html) with interesting pages of data (PDFs not csv files), including a [diversity profile](https://www.lehigh.edu/~oir/divprofile/divprofile.html) 
+- Lehigh's Office of Institutional Research has a [Data Center](https://oirsa.lehigh.edu/data-center) with interesting pages of data (data visualizations, or PDFs, not csv files), including [census data](https://oirsa.lehigh.edu/census-data) 
 
 ## National and International Data Sources 
 (feel free to send me links to add to this list)
-- [How to Teach Data Journalism for Beginners](http://mediashift.org/2015/03/how-to-teach-data-journalism-for-beginners/), with databases
-- [Finding Data](http://datajournalismhandbook.org/1.0/en/getting_data_0.html): The Data Journalism Handbook
-- Also see for the U.S., [data.gov](http://www.data.gov/), [data.gov/states](https://www.data.gov/states/), the [World Bank](http://data.worldbank.org), the [United Nations](http://data.un.org), [GetTheData](http://getthedata.org), and city, county, state and federal databases
+- U.S. government's open data: [Data.gov](https://www.data.gov/)
+- A data community: [Data.world](https://data.world/)
+- Also see for the U.S., [data.gov/states](https://www.data.gov/states/), the [World Bank](http://data.worldbank.org), the [United Nations](http://data.un.org), [GetTheData](http://getthedata.org), and city, county, state and federal databases
 - [DataUSA](http://datausa.io/) offers good visualizations as well as data.
 - [Census Reporter](http://beta.censusreporter.org/), a Knight-funded project, still in beta, makes searching the Census and American Community Survey a little easier
 - [MPC, the Minnesota Population Center](https://www.ipums.org/) also offers good access to census data worldwide.
